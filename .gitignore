@@ -1,0 +1,15 @@
+.venv/
+
+*.cert
+*.crt
+*.csr
+*.der
+*.jks
+*.key
+*.p12
+*.p7b
+*.p7c
+*.p7s
+*.pem
+*.pfx
+*.srl
