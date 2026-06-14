@@ -1,0 +1,6 @@
+[project]
+name = "ujang-cli-ed25519-ssh2pkcs8"
+slug = "ujang-cli-ed25519-ssh2pkcs8"
+
+[amem]
+server = "https://amem.flusci.org"
